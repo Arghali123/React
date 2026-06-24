@@ -1,0 +1,13 @@
+# Learning Path
+- useState
+- useEffect
+- useRef
+- useContext
+- useReducer
+- useMemo
+- useCallback
+- React.memo
+- Custom Hooks
+- useReducer + useContext Project
+- Performance Optimization
+- Advanced React Patterns
