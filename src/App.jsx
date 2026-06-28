@@ -1,12 +1,14 @@
 
-import FilteringLargeData from "./useMemo/FilteringLargeData"
+import EcommerceMemo from "./useMemo/ReactMemo/EcommerceMemo"
+
+
 
 
 
 function App() {
 
   return(
-    <FilteringLargeData/>
+    <EcommerceMemo/>
   )
 }
 
