@@ -1,14 +1,11 @@
-
-import EcommerceMemo from "./useMemo/ReactMemo/EcommerceMemo"
-
-
-
-
+import React from 'react'
+import Dashboard from './useCallback/Dashboard'
 
 function App() {
-
-  return(
-    <EcommerceMemo/>
+  return (
+    <div>
+      <Dashboard/>
+    </div>
   )
 }
 
